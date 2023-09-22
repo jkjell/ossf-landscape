@@ -820,6 +820,16 @@ landscape:
               details_url: https://aquasecurity.github.io/trivy/latest/tutorials/signing/vuln-attestation/
             organization:
               name: AquaSecurity
+          - item:
+            name: Witness
+            homepage_url: https://witness.dev/
+            repo_url: https://github.com/testifysec/witness
+            logo: witness.svg
+            twitter: https://twitter.com/testifysec
+            extra:
+              details_url: https://github.com/testifysec/witness-examples/blob/main/keyless-fulcio/README.md
+            organization:
+              name: TestifySec
       - subcategory:
         name: Language Clients
         items:
